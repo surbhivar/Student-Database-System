@@ -582,7 +582,7 @@ struct student
                                                 break;
 
                                 case 3:
-   search();
+   search();//search a record
 
                                                 break;
 
