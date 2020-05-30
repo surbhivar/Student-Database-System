@@ -592,7 +592,7 @@ struct student
                                                  break;
 
                                 case 5:
-   update();
+   update();// To update a record
 
                                                  break;
 
